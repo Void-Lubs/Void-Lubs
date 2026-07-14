@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mr.Void&fontSize=60&fontColor=00E7FF&color=0:0F172A,100:020617&animation=fadeIn"/>
-</p>
-
 <div align="center">
 
 # 👋 Hey, I'm Mr.Void
